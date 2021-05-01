@@ -1,1 +1,1 @@
-"This is file B change 1" 
+"This is file B change 2" 
